@@ -1,0 +1,10 @@
+.Active{
+    color: rgb(0, 0,0) !important;
+}
+
+.NavItems{
+    width: 220px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
