@@ -1,0 +1,8 @@
+.MuiGrid-spacing-xs-2 {
+    margin: unset !important;
+}
+
+.Main{
+    display: flex;
+    flex-direction: column;
+}

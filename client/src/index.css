@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  background-image: url('./assets/Background\ for\ summer\ beach\ and\ vacation.\ Sandals\ on\ sand\ vector\ design\ illustration.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  font-family: 'Roboto', 'sans-serif';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.MuiGrid-spacing-xs-2 {
+  margin: unset !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* .makeStyles-root-1 {
+  flex-grow: unset !important;
+}
+
+.makeStyles-paper-4{
+  margin-top: unset !important;
+} */
